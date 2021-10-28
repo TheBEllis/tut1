@@ -7,7 +7,7 @@
 
 [Kernels]
     [diff]
-        type = ADDiffusion
+        type = DarcyPressure
         variable = pressure
     []
 []
